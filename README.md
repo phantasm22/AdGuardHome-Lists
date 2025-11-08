@@ -1,4 +1,4 @@
-# AdGuardHome Block, Allow, and Custom Filtering lists for use with HaGeZi Pro++
+# AdGuardHome Block and Allow lists for use with HaGeZi Pro++
 
 **Optimized for:**
 - **Echo Show** (100% ad-free)
@@ -23,8 +23,6 @@ HaGeZi's Pro++ Blocklist
    ``https://raw.githubusercontent.com/phantasm22/AdGuardHome-Lists/main/allowlist.txt``
 
 6. Save → Enable
-7. Add customfilteringrules content (copy / paste) to **AdGuard Home** → **Filters** → **Custom filtering rules**
-8. Apply
    
 
 ## Auto-Updates
