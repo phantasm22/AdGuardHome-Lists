@@ -8,3 +8,4 @@
 ||unagi-na.amazon.com^                     # Main ad engine (home screen banners)
 ||dcape-na.amazon.com^                     # "Discover" voice tips
 ||todo-ta-g7g.amazon.com^                  # Promotional tasks ("Try saying...")
+||d2zprwa9w8uwyf.cloudfront.net^           # Ad CDN (specific subdomain)
