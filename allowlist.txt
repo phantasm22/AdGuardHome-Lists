@@ -1,37 +1,101 @@
 # === ALLOW-ONLY EXCEPTIONS (Roku / Apple TV / Echo Show) ===
 # HaGeZi Pro++ blocks these — whitelist to fix streaming & apps
 
-@@||quantummetric.com^                     # Home Depot web app — cart/checkout
-@@||api.taplytics.com^                     # A/B testing — web forms (checkouts)
-@@||www.clarity.ms^                        # Microsoft Clarity — form analytics
-@@||network.bazaarvoice.com^               # Product reviews — AccuWeather, retailers
-@@||sdk.split.io^                          # Experian — login/dashboard
-@@||tags.tiqcdn.com^                       # Samsung chat + some apps (Tealium)
-@@||logs.roku.com^                         # Roku beta & telemetry
-@@||87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com^  # Paramount+ playback
-@@||pubads.g.doubleclick.net^              # Google ads — YouTube, CW, TBS
+# Home Depot web app — cart/checkout
+@@||quantummetric.com^
+
+# A/B testing — web forms (checkouts)
+@@||api.taplytics.com^
+
+# Microsoft Clarity — form analytics
+@@||www.clarity.ms^
+
+# Product reviews — AccuWeather, retailers
+@@||network.bazaarvoice.com^
+
+# Experian — login/dashboard
+@@||sdk.split.io^
+
+# Samsung chat + some apps (Tealium)
+@@||tags.tiqcdn.com^
+
+# Roku beta & telemetry
+@@||logs.roku.com^
+
+# Paramount+ playback
+@@||87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com^
+
+# Google ads — YouTube, CW, TBS
+@@||pubads.g.doubleclick.net^
+
 
 # === STREAMING CDN / ANALYTICS FIXES (Required for HaGeZi Pro++) ===
-@@||geo.nbcsports.com^                     # NBC Sports / Peacock — geolocation
-@@||scorecardresearch.com^                 # Comscore — NBC, ESPN, Fox
-@@||akamaihd.net^                          # Akamai CDN — NBC, Disney+, Hulu
-@@||llnwd.net^                             # Limelight CDN — Hulu, Starz, Philo
-@@||fastly.net^                            # Fastly CDN — Hulu, Disney+, Peacock
-@@||cloudfront.net^                        # AWS CDN — Prime Video, Plex, Tubi
-@@||googlevideo.com^                       # YouTube video CDN
-@@||ytimg.com^                             # YouTube thumbnails
-@@||gstatic.com^                           # Google assets — YouTube, ESPN
-@@||demdex.net^                            # Adobe Audience Manager — Disney+, Hulu
-@@||omtrdc.net^                            # Adobe Analytics — Disney+, ESPN
-@@||everesttech.net^                       # Adobe Launch — Hulu, Starz
-@@||2mdn.net^                              # DoubleClick Video — YouTube, CW, TBS
-@@||adnxs.com^                             # AppNexus — CW, TBS app launch
-@@||krxd.net^                              # Salesforce KRUX — HBO Max
-@@||bluekai.com^                           # Oracle BlueKai — HBO Max, TLC
-@@||mookie1.com^                           # Nielsen — TLC, Philo
-@@||tidaltv.com^                           # Legacy video ads
-@@||freewheel.tv^                          # FreeWheel — Philo, Pluto, Tubi
-@@||spotxchange.com^                       # SpotX — Tubi, Pluto, Fox
-@@||aniview.com^                           # Aniview — Tubi, Pluto
-@@||revsci.net^                            # Legacy tracking
-@@||adobe.com^$domain=adobe.com            # Adobe DRM — Starz, HBO Max
+
+# NBC Sports / Peacock — geolocation
+@@||geo.nbcsports.com^
+
+# Comscore — NBC, ESPN, Fox
+@@||scorecardresearch.com^
+
+# Akamai CDN — NBC, Disney+, Hulu
+@@||akamaihd.net^
+
+# Limelight CDN — Hulu, Starz, Philo
+@@||llnwd.net^
+
+# Fastly CDN — Hulu, Disney+, Peacock
+@@||fastly.net^
+
+# AWS CDN — Prime Video, Plex, Tubi
+@@||cloudfront.net^
+
+# YouTube video CDN
+@@||googlevideo.com^
+
+# YouTube thumbnails
+@@||ytimg.com^
+
+# Google assets — YouTube, ESPN
+@@||gstatic.com^
+
+# Adobe Audience Manager — Disney+, Hulu
+@@||demdex.net^
+
+# Adobe Analytics — Disney+, ESPN
+@@||omtrdc.net^
+
+# Adobe Launch — Hulu, Starz
+@@||everesttech.net^
+
+# DoubleClick Video — YouTube, CW, TBS
+@@||2mdn.net^
+
+# AppNexus — CW, TBS app launch
+@@||adnxs.com^
+
+# Salesforce KRUX — HBO Max
+@@||krxd.net^
+
+# Oracle BlueKai — HBO Max, TLC
+@@||bluekai.com^
+
+# Nielsen — TLC, Philo
+@@||mookie1.com^
+
+# Legacy video ads
+@@||tidaltv.com^
+
+# FreeWheel — Philo, Pluto, Tubi
+@@||freewheel.tv^
+
+# SpotX — Tubi, Pluto, Fox
+@@||spotxchange.com^
+
+# Aniview — Tubi, Pluto
+@@||aniview.com^
+
+# Legacy tracking
+@@||revsci.net^
+
+# Adobe DRM — Starz, HBO Max
+@@||adobe.com^$domain=adobe.com
