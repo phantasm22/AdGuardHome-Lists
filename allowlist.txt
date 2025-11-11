@@ -28,6 +28,9 @@
 # Google ads — YouTube, CW, TBS
 @@||pubads.g.doubleclick.net^
 
+# Walmart Customer Spark Survey Response
+@@||walmart2.surveyfiles.com^
+
 
 # === STREAMING CDN / ANALYTICS FIXES (Required for HaGeZi Pro++) ===
 
