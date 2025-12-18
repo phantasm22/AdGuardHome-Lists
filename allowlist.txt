@@ -34,6 +34,9 @@
 # Zoho Forms
 @@||zfrmz.com^
 
+# WSJ email links
+@@||trk.wsj.com^
+
 
 # === STREAMING CDN / ANALYTICS FIXES (Required for HaGeZi Pro++) ===
 
