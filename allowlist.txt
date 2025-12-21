@@ -4,6 +4,9 @@
 # Home Depot web app — cart/checkout
 @@||quantummetric.com^
 
+# Home depot email links
+@@||trk.mg.homedepot.com^
+
 # A/B testing — web forms (checkouts)
 @@||api.taplytics.com^
 
@@ -18,12 +21,6 @@
 
 # Samsung chat + some apps (Tealium)
 @@||tags.tiqcdn.com^
-
-# Roku beta & telemetry
-@@||logs.roku.com^
-
-# Paramount+ playback
-@@||87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com^
 
 # Google ads — YouTube, CW, TBS
 @@||pubads.g.doubleclick.net^
@@ -105,6 +102,9 @@
 
 # Legacy tracking
 @@||revsci.net^
+
+# Paramount+ playback
+@@||87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com^
 
 # Adobe DRM — Starz, HBO Max
 @@||adobe.com^$domain=adobe.com
