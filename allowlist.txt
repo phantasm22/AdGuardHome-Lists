@@ -34,6 +34,10 @@
 # WSJ email links
 @@||trk.wsj.com^
 
+# Amazon Kindle
+@@||dcape-na.amazon.com^
+@@||todo-ta-g7g.amazon.com^
+
 
 # === STREAMING CDN / ANALYTICS FIXES (Required for HaGeZi Pro++) ===
 
@@ -63,12 +67,6 @@
 
 # Google assets — YouTube, ESPN
 @@||gstatic.com^
-
-# Adobe Audience Manager — Disney+, Hulu
-@@||demdex.net^
-
-# Adobe Analytics — Disney+, ESPN
-@@||omtrdc.net^
 
 # Adobe Launch — Hulu, Starz
 @@||everesttech.net^
@@ -107,4 +105,6 @@
 @@||87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com^
 
 # Adobe DRM — Starz, HBO Max
-@@||adobe.com^$domain=adobe.com
+@@||sp.auth.adobe.com^
+@@||entitlement.auth.adobe.com^
+@@||auth.adobe.com^
