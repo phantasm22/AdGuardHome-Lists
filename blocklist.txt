@@ -18,11 +18,11 @@
 # Main ad engine (home screen banners)
 ||unagi-na.amazon.com^
 
-# "Discover" voice tips
-||dcape-na.amazon.com^
+# "Discover" voice tips (required for Kindle login)
+#||dcape-na.amazon.com^
 
-# Promotional tasks ("Try saying...")
-||todo-ta-g7g.amazon.com^
+# Promotional tasks ("Try saying...") (required for Kindle sync)
+#||todo-ta-g7g.amazon.com^
 
 # Ad CDN (specific subdomain)
 ||d2zprwa9w8uwyf.cloudfront.net^
