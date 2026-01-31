@@ -38,8 +38,9 @@
 @@||dcape-na.amazon.com^
 @@||todo-ta-g7g.amazon.com^
 
-# Wall Street Journal 10 point email
+# Wall Street Journal email
 @@/10point\.cmail[0-9]{2}\.com$/
+@@/morningeditorial\.cmail[0-9]{2}\.com$/
 
 
 # === STREAMING CDN / ANALYTICS FIXES (Required for HaGeZi Pro++) ===
