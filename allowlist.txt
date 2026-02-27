@@ -108,10 +108,9 @@
 # Paramount+ playback
 @@||87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com^
 
-# Adobe DRM — Starz, HBO Max
+# Adobe DRM — Starz, HBO Max, ESPN
 @@||sp.auth.adobe.com^
 @@||entitlement.auth.adobe.com^
 @@||auth.adobe.com^
-
-# ESPN
 @@||dpm.demdex.net^
+
