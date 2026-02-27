@@ -112,3 +112,6 @@
 @@||sp.auth.adobe.com^
 @@||entitlement.auth.adobe.com^
 @@||auth.adobe.com^
+
+# ESPN
+@@||dpm.demdex.net^
