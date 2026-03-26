@@ -47,6 +47,10 @@
 
 # NBC Sports / Peacock — geolocation
 @@||geo.nbcsports.com^
+@@||nbcstreamingservice.data.adobedc.net^
+@@||config2.mparticle.com^
+@@||friendship.nbc.com^
+@@||cdn-gl.nmrodam.com^
 
 # Comscore — NBC, ESPN, Fox
 @@||scorecardresearch.com^
