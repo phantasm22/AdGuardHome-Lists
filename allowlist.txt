@@ -1,48 +1,4 @@
 # === ALLOW-ONLY EXCEPTIONS (Roku / Apple TV / Echo Show) ===
-# HaGeZi Pro++ blocks these — whitelist to fix streaming & apps
-
-# Home Depot web app — cart/checkout
-@@||quantummetric.com^
-
-# Home depot email links
-@@||trk.mg.homedepot.com^
-
-# A/B testing — web forms (checkouts)
-@@||api.taplytics.com^
-
-# Microsoft Clarity — form analytics
-@@||www.clarity.ms^
-
-# Product reviews — AccuWeather, retailers
-@@||network.bazaarvoice.com^
-
-# Experian — login/dashboard
-@@||sdk.split.io^
-
-# Samsung chat + some apps (Tealium)
-@@||tags.tiqcdn.com^
-
-# Google ads — YouTube, CW, TBS
-@@||pubads.g.doubleclick.net^
-
-# Walmart Customer Spark Survey Response
-@@||walmart2.surveyfiles.com^
-
-# Zoho Forms
-@@||zfrmz.com^
-
-# WSJ email links
-@@||trk.wsj.com^
-
-# Amazon Kindle
-@@||dcape-na.amazon.com^
-@@||todo-ta-g7g.amazon.com^
-
-# Wall Street Journal email
-@@/10point\.cmail[0-9]{2}\.com$/
-@@/morningeditorial\.cmail[0-9]{2}\.com$/
-
-
 # === STREAMING CDN / ANALYTICS FIXES (Required for HaGeZi Pro++) ===
 
 # NBC Sports / Peacock — geolocation
