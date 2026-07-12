@@ -29,4 +29,4 @@ HaGeZi's Pro++ Blocklist
 These files are version-controlled. Edit → commit → AdGuard updates automatically.
 
 ---
-**Maintained by phantasm22** | Last updated: November 2025
+**Maintained by phantasm22** | Last updated: July 2026
