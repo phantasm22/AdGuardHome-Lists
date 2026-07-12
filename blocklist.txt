@@ -26,3 +26,14 @@
 
 # Ad CDN (specific subdomain)
 ||d2zprwa9w8uwyf.cloudfront.net^
+
+# === 2026 ALEXA+ AD FIXES ===
+
+# Ad kit prod (sponsored content)
+||cdn.prod.adskit.juno.alexa.amazon.dev^
+
+# Sonic advertising tracker (Alexa+ ad telemetry)
+||trck.ahs.prod-na.turntable.sonic.advertising.amazon.dev^
+
+# Alexa+ ad service domain
+||jet.amazon^
