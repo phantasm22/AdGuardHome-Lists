@@ -10,6 +10,10 @@
 ||mlis.amazon.com^
 
 # Captive portal ads (force block)
+# NOTE: Some Echo devices treat a failed portal-check as "no internet" and
+# stop responding to voice commands. If a device won't answer commands,
+# add a client-scoped exception rather than removing this rule, e.g.:
+# @@||mmechocaptiveportal.com^$client='<device-ip>'
 ||mmechocaptiveportal.com^
 
 # Location-based suggestions ("By the way...")
@@ -37,3 +41,8 @@
 
 # Alexa+ ad service domain
 ||jet.amazon^
+
+# Alexa+ promo content
+||dp-discovery-na-ext.amazon.com^
+
+
