@@ -44,5 +44,10 @@
 
 # Alexa+ promo content
 ||dp-discovery-na-ext.amazon.com^
+||dp-gw-na.amazon.com^ 
+
+# === ROKU CHANNEL SPECIFIC ADS ===
+||osm-ads.delivery.roku.com^
+||osm-ads-cf.delivery.roku.com^
 
 
